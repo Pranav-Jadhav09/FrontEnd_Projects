@@ -4,7 +4,7 @@ Welcome to the Front-End Projects Repository! This collection features a variety
 
 <br />
 
-## React.js Projects List
+## Projects List
 
 | Project Name    | Repo Link                                               | Live Demo                                              |
 | --------------- | ------------------------------------------------------- | ------------------------------------------------------ |
