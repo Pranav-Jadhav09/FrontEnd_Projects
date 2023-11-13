@@ -1,6 +1,6 @@
-# React.js Projects Repository
+# Front-End Projects 
 
-Welcome to the React.js Projects Repository! This collection features a variety of projects built with React.js, a powerful JavaScript library for building user interfaces. Explore the code, understand React's component-based architecture, and see how it can simplify the development of interactive and dynamic web applications.
+Welcome to the Front-End Projects Repository! This collection features a variety of projects built with React.js, Next.js, Gatsby.js, etc a powerful JavaScript library for building user interfaces. Explore the code, understand React's component-based architecture, and see how it can simplify the development of interactive and dynamic web applications.
 
 <br />
 
@@ -14,14 +14,14 @@ Welcome to the React.js Projects Repository! This collection features a variety 
 
 <br />
 
-## How to Run the React.js Projects
+## How to Run the Front-End Projects
 
 Each React.js project is organized within its respective folder. To run a project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/username/react-projects.git
+   git clone https://github.com/username/frontend-projects.git
    ```
 
 2. Navigate to the specific project's folder:
